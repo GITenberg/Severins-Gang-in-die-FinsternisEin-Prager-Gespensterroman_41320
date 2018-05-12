@@ -1,0 +1,34 @@
+_repo: Severins-Gang-in-die-FinsternisEin-Prager-Gespensterroman_41320
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Teschner, Richard
+    birthdate: 1879
+    deathdate: 1948
+    gutenberg_agent_id: '41113'
+    url: http://www.gutenberg.org/2009/agents/41113
+covers:
+- cover_type: archival
+  image_path: 41320-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Leppin, Paul
+    birthdate: 1878
+    deathdate: 1945
+    gutenberg_agent_id: '41112'
+    url: http://www.gutenberg.org/2009/agents/41112
+description: ''
+gutenberg_issued: '2012-11-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41320'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Prague (Czech Republic) -- Fiction'
+- !lcc 'PT'
+- !lcsh 'Ghost stories'
+title: 'Severins Gang in die Finsternis: Ein Prager Gespensterroman'
+url: http://www.gutenberg.org/ebooks/41320
