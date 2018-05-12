@@ -18,6 +18,8 @@ creator:
     gutenberg_agent_id: '41112'
     url: http://www.gutenberg.org/2009/agents/41112
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/41320#Severins-Gang-in-die-FinsternisEin-Prager-Gespensterroman
 gutenberg_issued: '2012-11-08'
 gutenberg_type: Text
 identifiers:
